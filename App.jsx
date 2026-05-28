@@ -81,7 +81,7 @@ export default function App() {
             </p>
 
             <div className="cta-row">
-              <a href="#quote-form" className="button button-primary">
+              <a hreff="https://form.jotform.com/261473708754061" className="button button-primary"> target="_blank" rel="noreferrer"
                 Start Free Collection Review
               </a>
               <a href="https://instagram.com/yourhandle" className="button button-secondary" target="_blank" rel="noreferrer">
