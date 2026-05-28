@@ -84,7 +84,7 @@ export default function App() {
               <a href="https://form.jotform.com/261473708754061" className="button button-primary" target="_blank" rel="noreferrer">
                 Start Free Collection Review
               </a>
-              <a href=https://instagram.com/ribbit_rares className="button button-secondary" target="_blank" rel="noreferrer">
+              <a href="https://instagram.com/ribbit_rares" className="button button-secondary" target="_blank" rel="noreferrer">
                 DM on Instagram
               </a>
             </div>
